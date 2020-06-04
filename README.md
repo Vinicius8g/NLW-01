@@ -1,6 +1,6 @@
-#NLW 1.0
+# NLW 1.0
 
-#Sobre a aplicação
+# Sobre a aplicação
 - A Ecoleta foi a aplicação escolhida pela @Rocketseat para representar a primeira edição da NLW!
 - Se quiser assistir se inscreva ainda da tempo!
 
